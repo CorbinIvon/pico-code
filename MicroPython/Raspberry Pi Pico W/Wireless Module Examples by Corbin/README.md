@@ -12,8 +12,8 @@ Read more on WLAN methods [here](https://docs.micropython.org/en/latest/library/
 You must replace the following variables:
 1. SSID = 'YOUR WIFI NAME'
 2. PASSWORD = 'YOUR WIFI PASSWORD'
-When running your code, you should see the following output, or something similar:
-
+When running your code, you should see the following output, or something similar.
+# Example Output
 `On Success`
 ```bash
 >>> %Run -c $EDITOR_CONTENT
