@@ -1,1 +1,1 @@
-Projects that are Pico W (Wireless Module) dependent should be listed here. All other projects can go under the Raspberry Pi Pico subfolder.
+Projects that are Pico W (Wireless Module) dependent should be placed under [MicroPython/Raspberry Pi Pico W](https://github.com/CorbinIvon/pico-code/tree/main/MicroPython/Raspberry%20Pi%20Pico%20W). All other projects can go under the [MicroPython/Raspberry Pi Pico](https://github.com/CorbinIvon/pico-code/tree/main/MicroPython/Raspberry%20Pi%20Pico) subfolder.
