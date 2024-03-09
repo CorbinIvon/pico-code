@@ -3,8 +3,8 @@
 - USB-A to Micro-USB-B cable, 45cm, Black (USB 2.0)
 - My home WiFi network
 # Files
-- connect_to_SSID.py - A basic example that connects to a WiFi network
-- get_data_from_ip.py - A bare bones example that reads the content from a web page.
+- connect_to_SSID.py - A basic example that connects to a WiFi network and outputs the device's IP.
+- get_data_from_ip.py - A bare bones example that reads the content from a web page. If the site contains plain text, it will output the plain text.
 # Other Information
 Read more on WLAN methods [here](https://docs.micropython.org/en/latest/library/network.WLAN.html)
 # Walkthroughs
