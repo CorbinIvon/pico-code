@@ -1,0 +1,1 @@
+Projects that are Pico W (Wireless Module) dependent should be listed here. All other projects can go under the Raspberry Pi Pico subfolder.
