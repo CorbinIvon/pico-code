@@ -13,6 +13,7 @@ You must replace the following variables:
 1. SSID = 'YOUR WIFI NAME'
 2. PASSWORD = 'YOUR WIFI PASSWORD'
 When running your code, you should see the following output, or something similar:
+
 `On Success`
 ```bash
 >>> %Run -c $EDITOR_CONTENT
@@ -39,6 +40,7 @@ You must replace the following variables:
 4. PORT = 'YOUR PORT'
 5. PATH = 'YOUR PATH'
 When running your code, you should see the following output, or something similar:
+
 `On Success`
 ```bash
 >>> %Run -c $EDITOR_CONTENT
